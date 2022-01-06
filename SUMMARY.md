@@ -9,3 +9,4 @@
 * [arithmetic operators](arithmetic-operators.md)
 * [JS data types](js-data-types.md)
 * [JS functions](js-functions.md)
+* [JS object](js-object.md)

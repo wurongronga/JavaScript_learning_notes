@@ -52,6 +52,19 @@ With `let`, redeclaring a variable in the same block is NOT allowed:
 `{ let x = 2; // Allowed var x = 3 // Not allowed }`
 {% endhint %}
 
+{% hint style="info" %}
+### When to use JavaScript const?
+
+As a general rule, always declare a variable with `const` unless you know that the value will change.
+
+Use `const` when you declare:
+
+* A new Array
+* A new Object
+* A new Function
+* A new RegExp
+{% endhint %}
+
 ### Let Hoisting
 
 Variables defined with `var` are **hoisted** to the top and can be initialized at any time.
