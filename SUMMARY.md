@@ -7,3 +7,5 @@
 * [JS Syntax](js-syntax.md)
 * [JS const, let, var](js-const-let-var.md)
 * [arithmetic operators](arithmetic-operators.md)
+* [JS data types](js-data-types.md)
+* [JS functions](js-functions.md)

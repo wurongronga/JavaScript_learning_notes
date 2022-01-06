@@ -6,15 +6,15 @@ Variables defined with `const` cannot be Reassigned.
 
 Variables defined with `const` have Block Scope.
 
-|   |                                             |                                                          |                                                           |
-| - | ------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
-|   | const                                       | let                                                      | var                                                       |
-|   | cannot be redeclared                        | cannot be redeclared                                     | can be redeclared                                         |
-|   | cannot be reassigned                        | can be reassigned                                        | can be reassigned                                         |
-|   | block scope                                 | block scope                                              | global scope                                              |
-|   | must be assigned when declared              | must be declared before use                              | can use the variable before it is declared                |
-|   | defines a constant reference to a value     | assign value to a variable                               | assign value to a variable                                |
-|   | **hoisted** to the top, but not initialized | **hoisted** to the top of the block, but not initialized | **hoisted** to the top and can be initialized at any time |
+|                                             |                                                          |                                                           |
+| ------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
+| const                                       | let                                                      | var                                                       |
+| cannot be redeclared                        | cannot be redeclared                                     | can be redeclared                                         |
+| cannot be reassigned                        | can be reassigned                                        | can be reassigned                                         |
+| block scope                                 | block scope                                              | global scope                                              |
+| must be assigned when declared              | must be declared before use                              | can use the variable before it is declared                |
+| defines a constant reference to a value     | assign value to a variable                               | assign value to a variable                                |
+| **hoisted** to the top, but not initialized | **hoisted** to the top of the block, but not initialized | **hoisted** to the top and can be initialized at any time |
 
 {% hint style="info" %}
 redecaring a variable using var keyword can impose problems
