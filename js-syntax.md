@@ -1,5 +1,14 @@
 # JS Syntax
 
+JavaScript accepts both double and single quotes:
+
+```
+document.getElementById('demo').innerHTML = 'Hello JavaScript'; 
+document.getElementById("demo").innerHTML = "Hello JavaScript"; 
+```
+
+JavaScript Can Change HTML Content
+
 The JavaScript syntax defines two types of values:
 
 * Fixed values

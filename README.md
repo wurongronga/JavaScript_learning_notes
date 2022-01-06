@@ -2,13 +2,6 @@
 description: quick notes while reading documents, can be further organized
 ---
 
-# quick points
+# learning notes
 
-JavaScript accepts both double and single quotes:
-
-```
-document.getElementById('demo').innerHTML = 'Hello JavaScript'; 
-document.getElementById("demo").innerHTML = "Hello JavaScript"; 
-```
-
-JavaScript Can Change HTML Content
+learning notes with [https://www.w3schools.com/js](https://www.w3schools.com/js)
