@@ -38,7 +38,7 @@ The result of _x_, _y_, and _z_ will be:
 `55`\
 `Hello5`
 
-``
+### JavaScript Comparison Operators
 
 | Operator | Description                       |
 | -------- | --------------------------------- |

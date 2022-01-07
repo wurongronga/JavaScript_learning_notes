@@ -10,3 +10,6 @@
 * [JS data types](js-data-types.md)
 * [JS functions](js-functions.md)
 * [JS object](js-object.md)
+* [JS event](js-event.md)
+* [HTML element](html-element.md)
+* [JS strings](js-strings.md)
