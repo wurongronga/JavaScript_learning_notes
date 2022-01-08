@@ -13,3 +13,4 @@
 * [JS event](js-event.md)
 * [HTML element](html-element.md)
 * [JS strings](js-strings.md)
+* [JS string methods](js-string-methods.md)
