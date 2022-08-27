@@ -1,6 +1,11 @@
 # JS data types
 
-avaScript variables can hold different data types: numbers, strings, objects and more:
+## JavaScript Primitive vs. Reference Values
+
+* Primitive values ([null](https://www.javascripttutorial.net/object/javascript-null/), [undefined](https://www.javascripttutorial.net/javascript-undefined/), [boolean](https://www.javascripttutorial.net/javascript-boolean-type/), [number](https://www.javascripttutorial.net/javascript-number/), [string](https://www.javascripttutorial.net/string/), [symbol](https://www.javascripttutorial.net/es6/symbol/), and [BigInt](https://www.javascripttutorial.net/es-next/javascript-bigint/))
+* Reference values that refer to objects.
+
+JavaScript variables can hold different data types: numbers, strings, objects and more:
 
 let length = 16;                               // Number\
 let lastName = "Johnson";                      // String\
