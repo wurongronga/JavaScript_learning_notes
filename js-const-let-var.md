@@ -9,7 +9,7 @@ Variables defined with `const` have Block Scope.
 |                                             |                                                          |                                                           |
 | ------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
 | const                                       | let                                                      | var                                                       |
-| cannot be redeclared                        | cannot be redeclared                                     | can be redeclared                                         |
+| cannot be redeclared                        | can be redeclared                                        | can be redeclared                                         |
 | cannot be reassigned                        | can be reassigned                                        | can be reassigned                                         |
 | block scope                                 | block scope                                              | global scope                                              |
 | must be assigned when declared              | must be declared before use                              | can use the variable before it is declared                |
